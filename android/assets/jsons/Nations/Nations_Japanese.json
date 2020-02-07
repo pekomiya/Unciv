@@ -201,7 +201,7 @@
 	},
 	{
 		"name": "Russia",
-		"leaderName": "Catherine",
+		"leaderName": "エカテリーナ",
 		"adjective": ["Russian"],
 		"startBias": ["Tundra"],
 		"preferredVictoryType": "Scientific",
@@ -226,13 +226,13 @@
 		"innerColor": [0,0,0],
 		"uniqueName": "Siberian Riches",
 		"unique": "Strategic Resources provide +1 Production, and Horses, Iron and Uranium Resources provide double quantity",
-		"cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
-			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
-			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir"]
+		"cities": ["モスクワ","サンクト・ペテルブルク","ノヴゴロド","ロストフ","ロスラヴリ","エカチェリンブルク","ヤクーツク","ウラジオストク","スモレンスク","オレンブルグ",
+			"クラスノヤルスク","ハバロフスク","ブリャンスク","トベリ","ノヴォシビルスク","マガダン","ムルマンスク","イルクーツク","チタ","サマラ",
+			"アルハンゲリスク","チェリャビンスク","トボリスク","ヴォログダ","オムスク","アストラハン","クルスク","サラトフ","トゥーラ","ウラディミール"]
 	},
 	{
 		"name": "Rome",
-		"leaderName": "Augustus Caesar",
+		"leaderName": "アウグストゥス",
 		"adjective": ["Roman"],
 		"preferredVictoryType": "Scientific",
 		
@@ -256,13 +256,13 @@
 		"innerColor": [238,201,9],
 		"uniqueName": "The Glory of Rome",
 		"unique": "+25% Production towards any buildings that already exist in the Capital",
-		"cities": ["Rome","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia",
-			"Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Brundisium","Caesaraugusta","Caesarea","Palmyra",
-			"Signia","Aquileia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis"]
+		"cities": ["ローマ","アンティウム","クマエ","ネアポリス","ラベンナ","アレティウム","メディオラヌム","アルピヌム","チルチェイ","セティア",
+			"サトゥリクム","アルデーア","オスティア","ウェリトラエ","ウィロコニウム","タレンツム","ブルンディシウム","カエサラウグスタ","カエサレア","パルミラ",
+			"シグニア","アクイレイア","クルシウム","ストリウム","クレモナ","プラセンシア","ヒスパリス","アルタクサタ","アウレリアノルム","ニコポリス"]
 	},
 	{
 		"name": "Arabia",
-		"leaderName": "Harun al-Rashid",
+		"leaderName": "ハールーン・アッラシード",
 		"adjective": ["Arabian"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Scientific",
